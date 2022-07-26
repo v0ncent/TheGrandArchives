@@ -7,3 +7,10 @@ This repository is a open contribution library of different Algorithms for any l
 
 I welcome beginners to fork and make their own algorithms to be archived, critiqued, and imporved for the advancement of 
 your learning!
+
+# How To contribute
+1. Fork this repository
+2. Create your own branch and title it what you wish
+  - If you are creating an algorithm for a language that is yet to added please create a new package titled the languages name
+3. Write your contribution
+4. Open pull request to the Development Branch ----DO NOT PULL REQUEST TO MASTER BRANCH----
