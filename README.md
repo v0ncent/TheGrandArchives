@@ -14,6 +14,7 @@ If you are a expeirienced developer and see something that can be improved pleas
 1. Fork this repository
 2. Create your own branch and title it what you wish
   - If you are creating an algorithm for a language that is yet to added please create a new package titled the languages name
+  - If your algorithms designated language already has a package please provide your contribution to its designated package
 3. Write your contribution
   - If you are improving an algorithm within your pull request please provide an explanation as to how you improved a algorithm, and why it is improved
 4. Open pull request to the Development Branch ----DO NOT PULL REQUEST TO MASTER BRANCH----
