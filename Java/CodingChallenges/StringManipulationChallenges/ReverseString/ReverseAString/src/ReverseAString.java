@@ -7,11 +7,11 @@ public class ReverseAString {
      * @return returns a stringified StringBuilder object containing the reversed string
      * */
     static String reverseString(String string){
-        String[] characters = string.split("");
-        StringBuilder reversed = new StringBuilder();
-        for(int i = characters.length - 1; i>=0; i--){
-            reversed.append(characters[i]);
+        String[] characters = string.split(""); //split string at empty space to get individual characters into a list
+        StringBuilder reversed = new StringBuilder(); //create string builder object
+        for(int i = characters.length - 1; i>=0; i--){ //loop through characters list backwards
+            reversed.append(characters[i]); //append the characters at the index to the string builder obj
         }
-        return reversed.toString();
+        return reversed.toString(); //return stringified string builder obj containing reversed characters
     }
 }
