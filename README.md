@@ -1,4 +1,4 @@
-# Algorithms
+# TheGrandArchives
 Come forth all! 
 
 For this repository is open to all algorithms of any language and any kind!
