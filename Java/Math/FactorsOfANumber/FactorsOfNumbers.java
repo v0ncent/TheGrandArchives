@@ -16,11 +16,12 @@ public class FactorsOfNumbers {
                     factors.add(i);
                 }
             }
-        } else { //if number is positive
-            for (int i = 1; i<=number; i++){ //loop from 1 - number
-                if(number % i == 0){ //if mod returns 0 it is a factor
-                    factors.add(i);
-                }
+            return factors;
+        }
+        //if number is positive
+        for (int i = 1; i<=number; i++){ //loop from 1 - number
+            if(number % i == 0){ //if mod returns 0 it is a factor
+                factors.add(i);
             }
         }
         return factors;
