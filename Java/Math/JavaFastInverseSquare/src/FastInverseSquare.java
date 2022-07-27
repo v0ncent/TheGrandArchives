@@ -1,3 +1,4 @@
+//Authored by v0ncent
 public class FastInverseSquare {
     //Below is the Java adaptation of Quake 3 Arenas famous Q_rsqrt method
     /*
