@@ -18,6 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: v0ncentArtSite
+          repo: TheGrandArchives
           plugin_languages: yes
           plugin_languages_indepth: yes
