@@ -10,6 +10,9 @@ your learning!
 
 If you are a expeirienced developer and see something that can be improved please do so!
 
+<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="450">
+<img align="center" src="/metrics.plugin.contributors.contributions.svg" alt="Metrics" width="550">
+
 # How To contribute
 1. Fork this repository
 2. Create your own branch and title it what you wish
