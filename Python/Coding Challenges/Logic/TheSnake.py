@@ -12,6 +12,6 @@ runs out of space in the game screen.
 """
 
 # the below algorithm solves the above problem
-def snakefill(a: int):
+def snakefill(a: int) -> int:
     return len(bin(a ** 2)) - 3
 
